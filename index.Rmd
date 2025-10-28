@@ -1,0 +1,16 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# This is Yvonne's awesome website
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+This website is for my homework assignment 4 for p8105 at Columbia University. 
+
+To learn more about my academic and professional journey click [here](about.html) 
+
