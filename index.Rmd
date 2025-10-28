@@ -10,7 +10,9 @@ output:
 
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
 
-This website is for my homework assignment 4 for p8105 at Columbia University. 
+My name is Yvonne Xie, currently a first year biostatistics student at Columbia Universty.
+
+This website shows what I am learning from p8105. 
 
 To learn more about my academic and professional journey click [here](about.html) 
 
