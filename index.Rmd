@@ -10,9 +10,11 @@ output:
 
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
 
-My name is Yvonne Xie, currently a first year biostatistics student at Columbia Universty.
+My name is Yvonne Xie, currently a first year biostatistics student at Columbia University.
 
 This website shows what I am learning from p8105. 
 
-To learn more about my academic and professional journey click [here](about.html) 
+To learn more about my academic and professional journey click [here](about.html). 
+
+HW4_problem2 instart card dashboard is [here](problem2_hw4.html).
 

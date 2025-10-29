@@ -6,7 +6,8 @@ output:
 
 I’m Yvonne (Yifan) Xie, a biostatistics graduate student at Columbia University’s Mailman School of Public Health, passionate about using data science to improve health outcomes and advance biomedical research. I hold a B.S. in Health Science from Boston University, where I graduated with a strong foundation in public health analytics, computer science, and quantitative methods. My research and industry experience span bioinformatics, epidemiology, and behavioral health, from optimizing genomic workflows at AccurEdit Therapeutics to conducting large-scale data analyses on vaccine hesitancy and Asian American mental health at Boston University. 
 
+
 Here is my resume:
-[Download my full CV](Yvonne Xie Resume.pdf)
+[View my full CV](Yvonne Xie Resume.pdf)
 
 To go back to the [homepage](index.html).
